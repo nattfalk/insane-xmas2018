@@ -2,13 +2,13 @@
 
 ![iNSANE X-mas 2018](screenshot.png)
 
-An Amiga OCS/ECS intro by iNSANE released for christmas 2018 written in Motorola 68000 assembly.
+An Amiga OCS/ECS intro by iNSANE released for Christmas 2018. Written in Motorola 68000 assembly.
 
-Available on [pouet.net](https://www.pouet.net/prod.php?which=79639)
+Also available on [pouet.net](https://www.pouet.net/prod.php?which=79639)
 
 ## Prerequisites
 
-- VS Code
+- Visual Studio Code
 - Amiga Assembly extension for VS Code. [https://github.com/prb28/vscode-amiga-assembly](https://github.com/prb28/vscode-amiga-assembly)
 - VASM/VLINK. Prebuilt binaries available at [https://github.com/prb28/vscode-amiga-assembly-binaries](https://github.com/prb28/vscode-amiga-assembly-binaries)
 
@@ -22,7 +22,7 @@ Available on [pouet.net](https://www.pouet.net/prod.php?which=79639)
 
 ## Usage
 
-Open in VS Code and build and then run (Ctrl+F5). Main code in src/xmas2018.s
+Open folder in VS Code, build and then run (Ctrl+F5). Main code in src/xmas2018.s
 
 ## Credits
 
